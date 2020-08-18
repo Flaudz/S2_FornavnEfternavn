@@ -1,0 +1,19 @@
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.exe
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.deps.json
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.runtimeconfig.json
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.runtimeconfig.dev.json
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.dll
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\bin\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.pdb
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.csprojAssemblyReference.cache
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder_MarkupCompile.cache
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder_MarkupCompile.lref
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.g.resources
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.AssemblyInfoInputs.cache
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.AssemblyInfo.cs
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.csproj.CoreCompileInputs.cache
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.dll
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.pdb
+C:\Users\nico936d\Documents\S-2\Uge_33\Mandag-FornavnEfternavn\WpfIntro-FornavnEfternavn\FornavnEfternavn.Canvas og billeder\obj\Debug\netcoreapp3.1\FornavnEfternavn.Canvas og billeder.genruntimeconfig.cache
